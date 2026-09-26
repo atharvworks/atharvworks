@@ -71,6 +71,103 @@ I'm **Atharv**, a first-year engineering student in Maharashtra, India, currentl
 
 <div align="center">
 
+<img src="https://raw.githubusercontent.com/atharvworks/atharvworks/main/metrics.svg" width="100%">
+
+<br><br>
+
+<img src="https://raw.githubusercontent.com/atharvworks/atharvworks/main/metrics.isocalendar.svg" width="100%">
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com/?user=atharvworks&hide_border=true&theme=tokyonight" height="170">
+
+</div>
+
+<details>
+<summary>🐍 Want an animated contribution snake too?</summary>
+
+<br>
+
+Add this GitHub Action to your profile repo (`.github/workflows/snake.yml`) — it auto-generates an animated contribution graph you can embed right here:
+
+```yaml
+name: generate snake
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: atharvworks
+          outputs: dist/snake.svg
+      - uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+Then embed it with:
+
+```md
+![snake](https://raw.githubusercontent.com/atharvworks/atharvworks/output/snake.svg)
+```
+
+</details>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=70&color=gradient&customColorList=12,20&section=header" width="100%">
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/atharvworks"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+<a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://instagram.com/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+<a href="mailto:YOUR_EMAIL@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=atharvworks&style=for-the-badge&color=0e7c7b&label=PROFILE+VIEWS" alt="Profile views">
+
+</div>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1200&color=8892B0&center=true&vCenter=true&width=500&lines=while+(curiosity)+%7B+keepBuilding()%3B+%7D;Better+Code.+Bigger+Dreams." alt="Typing SVG" />
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=90&color=gradient&customColorList=12,20&section=footer" width="100%">
+## 🧰 Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,cpp,js,html,css,arduino,git,github,vscode,linux&theme=dark&perline=10">
+
+<br><br>
+
+![Python](https://img.shields.io/badge/-Python-333333?style=flat-square&logo=python)
+![C++](https://img.shields.io/badge/-C++-333333?style=flat-square&logo=cplusplus)
+![Git](https://img.shields.io/badge/-Git-333333?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat-square&logo=github)
+![VS Code](https://img.shields.io/badge/-VS%20Code-333333?style=flat-square&logo=visualstudiocode)
+![Linux](https://img.shields.io/badge/-Linux-333333?style=flat-square&logo=linux)
+![Arduino](https://img.shields.io/badge/-Arduino-333333?style=flat-square&logo=arduino)
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=70&color=gradient&customColorList=12,20&section=header" width="100%">
+
+## 📊 GitHub Activity
+
+<div align="center">
+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=atharvworks&theme=tokyo-night&hide_border=true&area=true" width="100%">
 
 <br><br>
