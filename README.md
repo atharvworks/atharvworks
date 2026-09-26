@@ -16,7 +16,7 @@
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2800&pause=900&color=4ECDC4&center=true&vCenter=true&width=650&lines=Engineering+Student+%7C+Developer;Learning+in+public%2C+one+commit+at+a+time;Building+with+Python+%2B+C%2B%2B+%2B+Arduino;Next+stop%3A+Open+Source+%2B+GSoC" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2800&pause=900&color=4ECDC4&center=true&vCenter=true&width=650&lines=Engineering+Student+%7C+Developer;Learning+in+public%2C+one+commit+at+a+time;Building+with+Python+%2B+C%2B%2B+%2B+Arduino" alt="Typing SVG" />
 
 </div>
 
