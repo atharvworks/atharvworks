@@ -7,10 +7,10 @@
 <a href="https://github.com/atharvworks">
   <img src="https://img.shields.io/badge/GitHub-atharvworks-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </a>
-<a href="https://www.linkedin.com/">
+<a href="https://www.linkedin.com/in/atharv-bhandare-34b02a420">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
-<a href="https://instagram.com/">
+<a href="https://www.instagram.com/atharv.2107/">
   <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
 </a>
 
