@@ -83,12 +83,12 @@ I'm **Atharv**, a first-year engineering student in Maharashtra, India, currentl
 
 </div>
 
-<details>
+
 
 ![snake](https://raw.githubusercontent.com/atharvworks/atharvworks/output/snake.svg)
 
 
-</details>
+
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=70&color=gradient&customColorList=12,20&section=header" width="100%">
 
