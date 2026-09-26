@@ -84,39 +84,9 @@ I'm **Atharv**, a first-year engineering student in Maharashtra, India, currentl
 </div>
 
 <details>
-<summary>🐍 Want an animated contribution snake too?</summary>
 
-<br>
-
-Add this GitHub Action to your profile repo (`.github/workflows/snake.yml`) — it auto-generates an animated contribution graph you can embed right here:
-
-```yaml
-name: generate snake
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: atharvworks
-          outputs: dist/snake.svg
-      - uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-Then embed it with:
-
-```md
 ![snake](https://raw.githubusercontent.com/atharvworks/atharvworks/output/snake.svg)
-```
+
 
 </details>
 
