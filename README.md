@@ -1,16 +1,37 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**atharvworks/atharvworks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="./banner.png" width="100%" alt="Atharv - Engineering Student & Developer">
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+## 👋 Hi, I'm Atharv
+
+Engineering Student | Developer | Open Source Learner
+
+I'm currently learning, building projects, and exploring the world of software development.
+
+### 🛠️ Currently Exploring
+
+- Python
+- C++
+- Git & GitHub
+- Software Development
+- Open Source
+- AI/ML
+
+### 🚀 Goals
+
+- Build meaningful projects
+- Contribute to Open Source
+- Get involved in GSoC
+- Keep learning and improving
+
+---
+
+<div align="center">
+
+**Better Code. Bigger Dreams.**
+
+</div>
