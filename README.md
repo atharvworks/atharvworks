@@ -95,6 +95,3 @@ I'm **Atharv**, a first-year engineering student in Maharashtra, India, currentl
 <a href="https://www.instagram.com/atharv.2107/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 <a href="mailto:bhandareatharv98@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=atharvworks&style=for-the-badge&color=0e7c7b&label=PROFILE+VIEWS" alt="Profile views">
