@@ -71,9 +71,9 @@ I'm **Atharv**, a first-year engineering student in Maharashtra, India, currentl
 
 <div align="center">
 
-// <img src="https://raw.githubusercontent.com/atharvworks/atharvworks/main/metrics.svg" width="100%">
+<!-- <img src="https://raw.githubusercontent.com/atharvworks/atharvworks/main/metrics.svg" width="100%"> -->
 
-<br><br>
+<!-- <br><br> -->
 
 <img src="https://raw.githubusercontent.com/atharvworks/atharvworks/main/metrics.isocalendar.svg" width="100%">
 
